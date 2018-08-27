@@ -3,7 +3,7 @@ Grabs songs from site using XPATH for author and song name. Also has an added fe
 
 # Requirements
 Install python 3 <a href='https://www.python.org/downloads/'> here</a><br>
-*Make sure to have pip when installing python
+*Make sure to have pip when installing python<br>
 Install ffmpeg get it <a href='https://ffmpeg.zeranoe.com/builds/'>here</a>
 ### How to check if installed properly
 ![Check Installation](https://github.com/0v3rt1m3/SonglistGrabber/blob/master/sample_runs/to_check_requirements.gif "Check Installation")
