@@ -1,3 +1,5 @@
+#Project is not maintained anymore. Web pages structure changes over time making it difficult to retrieve song lists anymore.
+
 # SonglistGrabber
 Grabs songs from site using XPATH for author and song name. Also has an added feature to get youtube links and download the videos of the song. It includes the feature to convert the videos downloaded to mp3.
 
